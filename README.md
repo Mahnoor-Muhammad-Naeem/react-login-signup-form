@@ -1,3 +1,25 @@
+
+# 🔐 React Login & Signup Page
+
+This project is a simple **Login and Signup Page** built using **React.js**.  
+It includes form inputs, validation, and UI styling components for user authentication screens.
+
+---
+
+## 🚀 Getting Started
+
+Follow the steps below to set up and run the project locally:
+
+### 1️⃣ Create a New React App
+```bash
+npx create-react-app my-app
+2️⃣ Move Into the Project Folder
+cd my-app
+
+3️⃣ Start the Development Server
+npm start
+
+
 # Login-Signup
 
 A simple React-based login and signup form interface for local development and learning.
@@ -101,24 +123,3 @@ npm -v
 This project is open-source and available for personal or educational use.  
 Feel free to modify and distribute under terms you choose.
 
-
-
-# 🔐 React Login & Signup Page
-
-This project is a simple **Login and Signup Page** built using **React.js**.  
-It includes form inputs, validation, and UI styling components for user authentication screens.
-
----
-
-## 🚀 Getting Started
-
-Follow the steps below to set up and run the project locally:
-
-### 1️⃣ Create a New React App
-```bash
-npx create-react-app my-app
-2️⃣ Move Into the Project Folder
-cd my-app
-
-3️⃣ Start the Development Server
-npm start
